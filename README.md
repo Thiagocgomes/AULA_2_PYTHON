@@ -23,7 +23,4 @@ Nesta aula aprendemos sobre variáveis, tipos de variáveis, variáveis primitiv
 > Python 3.10.9
 > 
 
-## Autores:
 
-> Exemplo
->
